@@ -1,0 +1,17 @@
+https://javadeveloperzone.com/elastic-search/elastic-search-create-index-settings-example/#331_Example
+https://tutorial-academy.com/elasticsearch-6-create-index-bulk-insert-delete-java-api/
+https://blog.joshsoftware.com/2020/11/18/5-simple-examples-to-understand-elasticsearch-aggregation/
+
+
+http://localhost:8080/createIndex?indexName=tradebreaches
+http://localhost:8080/tradebreaches/insert?total=10
+http://localhost:8080/aggrBySupervisorAndKRI
+
+------------------------------------------------
+Peformance Stats
+1) Single Single Insert
+        records inserted 10,000
+        shards = 3
+        replicas = 2
+        time taken in sec = 55
+
